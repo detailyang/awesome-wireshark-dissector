@@ -16,6 +16,7 @@ A curated list of awesome wireshark dissector. Inspired by awesome awesomeness
 * [minecraft](#minecraft)
 * [mqtt](#mqtt)
 * [msgpack](#msgpack)
+* [nsq](#nsq)
 * [zmtp](#zmtp)
 
 ###adb
@@ -53,6 +54,9 @@ A curated list of awesome wireshark dissector. Inspired by awesome awesomeness
 
 ###msgpack
 * [msgpack](https://github.com/linear-rpc/msgpack-rpc-dissector)
+
+###nsq
+* [nsq](https://github.com/detailyang/wireshark-nsq)
 
 ###zmtp
 * [zmtp](https://github.com/whitequark/zmtp-wireshark)
